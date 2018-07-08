@@ -1,6 +1,6 @@
 # Welcome to Java
 
-Here you will learn the basics of python.
+Here you will learn the basics of Java.
 
 ## FAQs
 
