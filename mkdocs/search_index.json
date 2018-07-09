@@ -22,7 +22,7 @@
         }, 
         {
             "location": "/Getting-Started/", 
-            "text": "Getting Started with Java and Eclipse\n\n\nFor Mac Users\n\n\nhttps://www.youtube.com/watch?v=fAE-dnVUTs0\n\n\n\n\nDownload the JDK at http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html\n\n\nClick on the downloaded file and follow the installation prompts\n\n\nDownload Eclipse 64 bit at https://www.eclipse.org/downloads/\n\n\nDouble click on the download file, and move the new eclipse file into your applications folder\n\n\nTo run Eclipse, double click on the \"Eclipse\" folder, and then double click on the Eclipse icon\n\n\n\n\nFor Windows Users\n\n\nhttps://www.youtube.com/watch?v=fAj9qYFKONc\n\n\n\n\nDownload the JDK at http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html\n\n\nClick on the downloaded file and follow the installation prompts\n\n\nDownload Eclipse 64 bit at https://www.eclipse.org/downloads/\n\n\nRight click on the downloaded file, click \"Extract All\"\n\n\nEnter the folder, and find the \"Eclipse folder\" and then double click on the Eclipse icon\n\n\nMove the folder or icon to the desktop or a more accessible location in the C: drive\n\n\n\n\nGithub repo to Eclipse Workspace\n\n\nhttps://www.youtube.com/watch?v=o-t2e0hxNHc\n\n\n\n\nDownload the Github repo at https://github.com/Anidude234/Java_Curriculum\n\n\nOn Windows, the file will need to be unzipped\n\n\nIn Eclipse, go to File \n Import \n General \n Existing Projects in Workspace\n\n\nFind the downloaded repo and click \"Finish\"", 
+            "text": "Getting Started with Java and Eclipse\n\n\nFor Mac Users\n\n\nhttps://www.youtube.com/watch?v=fAE-dnVUTs0\n\n\n\n\nDownload the JDK \nhere\n\n\nClick on the downloaded file and follow the installation prompts\n\n\nDownload Eclipse 64 bit \nhere\n\n\nDouble click on the download file, and move the new eclipse file into your applications folder\n\n\nTo run Eclipse, double click on the \"Eclipse\" folder, and then double click on the Eclipse icon\n\n\n\n\nFor Windows Users\n\n\nhttps://www.youtube.com/watch?v=fAj9qYFKONc\n\n\n\n\nDownload the JDK \nhere\n\n\nClick on the downloaded file and follow the installation prompts\n\n\nDownload Eclipse 64 bit \nhere\n\n\nRight click on the downloaded file, click \"Extract All\"\n\n\nEnter the folder, and find the \"Eclipse folder\" and then double click on the Eclipse icon\n\n\nMove the folder or icon to the desktop or a more accessible location in the C: drive\n\n\n\n\nGithub repo to Eclipse Workspace\n\n\nhttps://www.youtube.com/watch?v=o-t2e0hxNHc\n\n\n\n\nDownload the Github repo \nhere\n\n\nOn Windows, the file will need to be unzipped\n\n\nIn Eclipse, go to File \n Import \n General \n Existing Projects in Workspace\n\n\nFind the downloaded repo and click \"Finish\"", 
             "title": "Getting Started"
         }, 
         {
@@ -32,17 +32,17 @@
         }, 
         {
             "location": "/Getting-Started/#for-mac-users", 
-            "text": "https://www.youtube.com/watch?v=fAE-dnVUTs0   Download the JDK at http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html  Click on the downloaded file and follow the installation prompts  Download Eclipse 64 bit at https://www.eclipse.org/downloads/  Double click on the download file, and move the new eclipse file into your applications folder  To run Eclipse, double click on the \"Eclipse\" folder, and then double click on the Eclipse icon", 
+            "text": "https://www.youtube.com/watch?v=fAE-dnVUTs0   Download the JDK  here  Click on the downloaded file and follow the installation prompts  Download Eclipse 64 bit  here  Double click on the download file, and move the new eclipse file into your applications folder  To run Eclipse, double click on the \"Eclipse\" folder, and then double click on the Eclipse icon", 
             "title": "For Mac Users"
         }, 
         {
             "location": "/Getting-Started/#for-windows-users", 
-            "text": "https://www.youtube.com/watch?v=fAj9qYFKONc   Download the JDK at http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html  Click on the downloaded file and follow the installation prompts  Download Eclipse 64 bit at https://www.eclipse.org/downloads/  Right click on the downloaded file, click \"Extract All\"  Enter the folder, and find the \"Eclipse folder\" and then double click on the Eclipse icon  Move the folder or icon to the desktop or a more accessible location in the C: drive", 
+            "text": "https://www.youtube.com/watch?v=fAj9qYFKONc   Download the JDK  here  Click on the downloaded file and follow the installation prompts  Download Eclipse 64 bit  here  Right click on the downloaded file, click \"Extract All\"  Enter the folder, and find the \"Eclipse folder\" and then double click on the Eclipse icon  Move the folder or icon to the desktop or a more accessible location in the C: drive", 
             "title": "For Windows Users"
         }, 
         {
             "location": "/Getting-Started/#github-repo-to-eclipse-workspace", 
-            "text": "https://www.youtube.com/watch?v=o-t2e0hxNHc   Download the Github repo at https://github.com/Anidude234/Java_Curriculum  On Windows, the file will need to be unzipped  In Eclipse, go to File   Import   General   Existing Projects in Workspace  Find the downloaded repo and click \"Finish\"", 
+            "text": "https://www.youtube.com/watch?v=o-t2e0hxNHc   Download the Github repo  here  On Windows, the file will need to be unzipped  In Eclipse, go to File   Import   General   Existing Projects in Workspace  Find the downloaded repo and click \"Finish\"", 
             "title": "Github repo to Eclipse Workspace"
         }
     ]
