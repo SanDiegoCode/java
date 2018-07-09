@@ -1,6 +1,6 @@
 # Getting Started with Java and Eclipse
 
-#For Mac Users
+# For Mac Users
 
  https://www.youtube.com/watch?v=fAE-dnVUTs0
 
@@ -10,7 +10,7 @@
 4. Double click on the download file, and move the new eclipse file into your applications folder
 5. To run Eclipse, double click on the "Eclipse" folder, and then double click on the Eclipse icon
 
-#For Windows Users
+# For Windows Users
 
 https://www.youtube.com/watch?v=fAj9qYFKONc
 
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=fAj9qYFKONc
 5. Enter the folder, and find the "Eclipse folder" and then double click on the Eclipse icon
 6. Move the folder or icon to the desktop or a more accessible location in the C: drive
 
-#Github repo to Eclipse Workspace
+# Github repo to Eclipse Workspace
 
 https://www.youtube.com/watch?v=o-t2e0hxNHc
 
