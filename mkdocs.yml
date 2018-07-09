@@ -6,6 +6,7 @@ site_url: 'https://sdcoding.com/java'
 
 pages:
 - Home: index.md
+- Getting Started: Getting-Started.md
 # Uncomment the below line to add lessons
 #- Lesson 1: lesson1.md
 
