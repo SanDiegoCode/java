@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to Java\n\n\nHere you will learn the basics of python.\n\n\nFAQs\n\n\n\n\nWhere do I run the code?\n\n\nYou can either \ninstall BluJ\n (Windows, Mac, and Linux), or you can \nrun online\n\n\n\n\n\n\nWhat if I need help?\n\n\nWe're only an \nemail away\n\n\n\n\n\n\nWhat if I'm not a part of SD Code?\n\n\nDon't worry about it! This resource is free to use by anyone!\n\n\n\n\n\n\nCan I host this on my website?\n\n\nSure, as long as you give credit and link it to our website\n\n\n\n\n\n\nHow can I contribute?\n\n\nSubmit a pull request to the repository on \nGithub\n\n\n\n\n\n\n\n\nCreators\n\n\n\n\nNir Levin\n\n\nRonak Shah", 
+            "text": "Welcome to Java\n\n\nHere you will learn the basics of Java.\n\n\nFAQs\n\n\n\n\nWhere do I run the code?\n\n\nYou can either \ninstall BluJ\n (Windows, Mac, and Linux), or you can \nrun online\n\n\n\n\n\n\nWhat if I need help?\n\n\nWe're only an \nemail away\n\n\n\n\n\n\nWhat if I'm not a part of SD Code?\n\n\nDon't worry about it! This resource is free to use by anyone!\n\n\n\n\n\n\nCan I host this on my website?\n\n\nSure, as long as you give credit and link it to our website\n\n\n\n\n\n\nHow can I contribute?\n\n\nSubmit a pull request to the repository on \nGithub\n\n\n\n\n\n\n\n\nCreators\n\n\n\n\nNir Levin\n\n\nRonak Shah", 
             "title": "Home"
         }, 
         {
             "location": "/#welcome-to-java", 
-            "text": "Here you will learn the basics of python.", 
+            "text": "Here you will learn the basics of Java.", 
             "title": "Welcome to Java"
         }, 
         {
@@ -19,6 +19,31 @@
             "location": "/#creators", 
             "text": "Nir Levin  Ronak Shah", 
             "title": "Creators"
+        }, 
+        {
+            "location": "/Getting-Started/", 
+            "text": "Getting Started with Java and Eclipse\n\n\nFor Mac Users\n\n\nhttps://www.youtube.com/watch?v=fAE-dnVUTs0\n\n\n\n\nDownload the JDK at http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html\n\n\nClick on the downloaded file and follow the installation prompts\n\n\nDownload Eclipse 64 bit at https://www.eclipse.org/downloads/\n\n\nDouble click on the download file, and move the new eclipse file into your applications folder\n\n\nTo run Eclipse, double click on the \"Eclipse\" folder, and then double click on the Eclipse icon\n\n\n\n\nFor Windows Users\n\n\nhttps://www.youtube.com/watch?v=fAj9qYFKONc\n\n\n\n\nDownload the JDK at http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html\n\n\nClick on the downloaded file and follow the installation prompts\n\n\nDownload Eclipse 64 bit at https://www.eclipse.org/downloads/\n\n\nRight click on the downloaded file, click \"Extract All\"\n\n\nEnter the folder, and find the \"Eclipse folder\" and then double click on the Eclipse icon\n\n\nMove the folder or icon to the desktop or a more accessible location in the C: drive\n\n\n\n\nGithub repo to Eclipse Workspace\n\n\nhttps://www.youtube.com/watch?v=o-t2e0hxNHc\n\n\n\n\nDownload the Github repo at https://github.com/Anidude234/Java_Curriculum\n\n\nOn Windows, the file will need to be unzipped\n\n\nIn Eclipse, go to File \n Import \n General \n Existing Projects in Workspace\n\n\nFind the downloaded repo and click \"Finish\"", 
+            "title": "Getting Started"
+        }, 
+        {
+            "location": "/Getting-Started/#getting-started-with-java-and-eclipse", 
+            "text": "", 
+            "title": "Getting Started with Java and Eclipse"
+        }, 
+        {
+            "location": "/Getting-Started/#for-mac-users", 
+            "text": "https://www.youtube.com/watch?v=fAE-dnVUTs0   Download the JDK at http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html  Click on the downloaded file and follow the installation prompts  Download Eclipse 64 bit at https://www.eclipse.org/downloads/  Double click on the download file, and move the new eclipse file into your applications folder  To run Eclipse, double click on the \"Eclipse\" folder, and then double click on the Eclipse icon", 
+            "title": "For Mac Users"
+        }, 
+        {
+            "location": "/Getting-Started/#for-windows-users", 
+            "text": "https://www.youtube.com/watch?v=fAj9qYFKONc   Download the JDK at http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html  Click on the downloaded file and follow the installation prompts  Download Eclipse 64 bit at https://www.eclipse.org/downloads/  Right click on the downloaded file, click \"Extract All\"  Enter the folder, and find the \"Eclipse folder\" and then double click on the Eclipse icon  Move the folder or icon to the desktop or a more accessible location in the C: drive", 
+            "title": "For Windows Users"
+        }, 
+        {
+            "location": "/Getting-Started/#github-repo-to-eclipse-workspace", 
+            "text": "https://www.youtube.com/watch?v=o-t2e0hxNHc   Download the Github repo at https://github.com/Anidude234/Java_Curriculum  On Windows, the file will need to be unzipped  In Eclipse, go to File   Import   General   Existing Projects in Workspace  Find the downloaded repo and click \"Finish\"", 
+            "title": "Github repo to Eclipse Workspace"
         }
     ]
 }
